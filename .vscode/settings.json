@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "env/scripts/python.exe",
+    "code-runner.executorMap": {
+        "python": "env/scripts/python.exe",
+
+    }
+}
